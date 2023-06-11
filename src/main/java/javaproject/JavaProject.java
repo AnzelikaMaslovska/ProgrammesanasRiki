@@ -1,4 +1,4 @@
-package javaproject;
+package main.java.javaproject;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
