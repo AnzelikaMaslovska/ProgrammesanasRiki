@@ -4,8 +4,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>your.group.id</groupId>
-    <artifactId>your-artifact-id</artifactId>
+    <groupId>com.anzelika.maslovska</groupId>
+    <artifactId>javaproject</artifactId>
     <version>1.0.0</version>
 
     <properties>
